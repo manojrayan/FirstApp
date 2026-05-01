@@ -1,8 +1,8 @@
 import snowflake.connector
 
 ctx = snowflake.connector.connect(
-user='manojrayan',
-password='Jmr123#open',
+user='xxxxxx',
+password='xxxxxxx',
 account='VN92705.us-east-2'
 )
 cs = ctx.cursor()

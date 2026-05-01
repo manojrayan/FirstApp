@@ -4,7 +4,7 @@ import snowflake.connector
 # Gets the version
 ctx = snowflake.connector.connect(
     user='manojrayan',
-    password='Jmr123#open',
+    password='xxxxxxx',
     account='SQBCIFA-DE78525'
     )
 cs = ctx.cursor()

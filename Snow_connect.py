@@ -5,8 +5,8 @@ import snowflake.connector
 
 # Establishing connection to Snowflake database
 conn = snowflake.connector.connect(
-    user='manojrayan',
-    password='Jmr123#open',
+    user='xxxxxxx',
+    password='xxxxxxx',
     account='SQBCIFA-DE78525',
     warehouse='COMPUTE_WH',
     database='ECONOMY_DATA_ATLAS',
